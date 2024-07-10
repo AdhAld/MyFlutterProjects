@@ -1,6 +1,7 @@
 # body_mass_index
 
 A new Flutter project.
+Open the BMI.png and see this app.
 
 ## Getting Started
 
